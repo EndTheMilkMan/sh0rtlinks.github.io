@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroLinks", "MicroLinks\MicroLinks.csproj", "{7B02C3FB-1E9D-4CF9-970D-B1970E5D2FD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCaller", "ConsoleCaller\ConsoleCaller.csproj", "{31B570C6-1948-41EC-B5D9-4A39B0A402D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroLinksAPI", "MicroLinksAPI\MicroLinksAPI.csproj", "{AE1481E0-41BB-4C77-8669-568CDE2E0439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B02C3FB-1E9D-4CF9-970D-B1970E5D2FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B02C3FB-1E9D-4CF9-970D-B1970E5D2FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B02C3FB-1E9D-4CF9-970D-B1970E5D2FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B02C3FB-1E9D-4CF9-970D-B1970E5D2FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B570C6-1948-41EC-B5D9-4A39B0A402D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B570C6-1948-41EC-B5D9-4A39B0A402D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B570C6-1948-41EC-B5D9-4A39B0A402D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B570C6-1948-41EC-B5D9-4A39B0A402D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1481E0-41BB-4C77-8669-568CDE2E0439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1481E0-41BB-4C77-8669-568CDE2E0439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1481E0-41BB-4C77-8669-568CDE2E0439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1481E0-41BB-4C77-8669-568CDE2E0439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
